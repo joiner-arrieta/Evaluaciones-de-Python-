@@ -1,5 +1,0 @@
-#EVALUACION 1 PROBLEMAS 1, 2 Y 3
-## DOCENTE 
-Miguel Ortiz 
-## ESTUDIANTE 
-Joiner Arrieta ID: 000483692
